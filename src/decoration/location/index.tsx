@@ -50,7 +50,7 @@ export default function LocationMatcha(){
                             </div>
 
                             <div className="pt-14 pb-10">
-                                <Link href="/">
+                                <Link href="/location">
                                     <div className="flex flex-row gap-x-2 justify-center items-center text-xl">
                                         <span>Lihat detail toko</span>
                                         <span><GoArrowUpRight /></span>
